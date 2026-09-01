@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "ตัวจับเวลาแบบ Pomodoro น่ารักมินิมอล พร้อมนาฬิกามะเขือเทศ เส้นนับถอยหลังสีฟ้า และโหมดสว่าง-มืด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
